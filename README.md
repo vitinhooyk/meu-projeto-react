@@ -1,12 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um simples projeto para a aula do professor Rêmulo, utilizando **React** e **Vite** como bundler, e **React Router DOM** para fazer avegação entre páginas.
 
-Currently, two official plugins are available:
+## Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [React Router DOM](https://reactrouter.com/)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Motivo da escolha 
+
+Escolhi utilizar React com Vite como framework por ser uma combinação moderna, e bastante utilizada.
+
+# Vantagens percebidas 
+
+Tem um rápida inicialização com o Vite, criando projetos em poucos segundos, diferente do "create-react-app", que pode demorar mais.
+
+# Comparações com outros que ja utilizou
+
+Comparado com frameworks como Angular ou Vue, o React com Vite tem uma curva de aprendizado mais suave se você já conhece JavaScript.
+
+# Experiência inicial com a instalação e estrutura do projeto
+
+A instalação foi bem tranquila, a estrutura inicial do projeto é limpa e já vem com os arquivos principais, o react é bem simples e direto.
